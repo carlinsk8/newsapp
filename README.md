@@ -15,5 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![ScreenShot](https://prnt.sc/sz2zh2)
-prnt.sc/sz2zh2
+![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
